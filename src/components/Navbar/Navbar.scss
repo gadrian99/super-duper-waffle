@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #226cac;
+
+    &-list {
+        height: 5rem;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        list-style-type: none;
+
+        &-link {
+            color: white
+        }
+    }
+}

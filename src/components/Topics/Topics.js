@@ -1,5 +1,5 @@
 import React from 'react';
-import './Topics.css'
+import './Topics.scss'
 
 const Topics = () => {
     return(
